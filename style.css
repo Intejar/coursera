@@ -1,0 +1,18 @@
+@media screen and (max-width:680px) {
+    .small{
+        font-size: 20px;
+        font-weight: 200;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .small p{
+        font-size: small;
+        font-weight: 100;
+    }
+    .small h1{
+        font-size: 10px;
+    }
+    
+}
