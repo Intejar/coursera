@@ -2,3 +2,22 @@
     width: 100%;
     height: 100%;
 }
+.fa-solid{
+    color: gold;
+}
+.fa-regular{
+    color: gold;
+}
+.left{
+    background-color: #E5F6FF;
+}
+.fa-angle-left{
+    color: #289BDE;
+}
+.right{
+    background-color:#289BDE ;
+}
+.fa-angle-right{
+    color: #E5F6FF;
+
+}
