@@ -21,3 +21,32 @@
     color: #E5F6FF;
 
 }
+.bg-header{
+    background-color: rgb(195, 227, 238);
+}
+.nav a{
+    color: rgba(39, 84, 121, 0.973);
+    font-weight: 600;
+}
+.button{
+    color: white;
+    background-color: #002979;
+    border: 2px solid rgb(92, 189, 221);
+    font-weight: 500;
+}
+.button:hover{
+    background-color: white;
+    color: hsl(240, 89%, 25%);
+    border: 2px solid rgb(92, 189, 221);
+
+}
+.text{
+    color:rgba(39, 84, 121, 0.973) ;
+    font-weight: 700;
+}
+.card-design:hover{
+    border: 2px solid rgb(92, 189, 221);
+    box-shadow: 5px 5px 5px 5px lightgray;
+
+    
+}
